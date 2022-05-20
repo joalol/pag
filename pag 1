@@ -1,0 +1,36 @@
+<html>
+    <head>
+     
+        <title>
+            Sitio web
+        </title>
+        <link rel="stylesheet" href="stilo.css">
+    </head>
+    <body>
+       
+        <div class="box-area">
+            <header>
+                <div class="logo">
+                    <a href="#">Mi pagina web :)</a> 
+                    
+
+                </div>
+                <nav>
+                    <a href="Formulario.html">Login</a>
+                    <a href="micro.html">Microrelato</a>
+                  
+                    <a href="botones.html">Botones</a>
+                    
+                    
+                </nav>
+            </header>
+            <div class="banner">
+                <h1>Bienvenido a mi pagina web</h1>
+                <p>Aqui esta lo que hice a lo largo del año....</p>
+            </div>
+
+        </div>
+        
+    </body>
+   
+</html>
